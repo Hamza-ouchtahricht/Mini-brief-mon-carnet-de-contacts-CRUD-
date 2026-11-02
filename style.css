@@ -93,3 +93,28 @@ li{
     align-items: center;
     gap: 10px;
 }
+
+.actions{
+ display: flex;
+ gap : 8px;
+
+}
+button.modifier {
+    background-color: #eab308;
+    color: #0f172a;
+    border: none;
+    padding: 6px 12px ;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+
+}
+button.supprime {
+    background-color: #ef4444;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
