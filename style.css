@@ -57,3 +57,10 @@ input :focus {
 #btn-submit:hover{
     background-color: #0369a1;
 }
+
+.erreur{
+    color : #f87171;
+    font-size: 0,9rem;
+    margin-top: 8px;
+    min-height: 20px;
+}
