@@ -76,5 +76,20 @@ input :focus {
 #compteur {
     font-weight: bold;
     
-   
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+li{
+    background-color: #0f172a;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid #334155;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
 }
