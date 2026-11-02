@@ -64,3 +64,17 @@ input :focus {
     margin-top: 8px;
     min-height: 20px;
 }
+.barre-outils {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin : 20px 0;
+    padding-top: 15px;
+    border-top: 1px solid #334155;
+}
+#compteur {
+    font-weight: bold;
+    
+   
+}
