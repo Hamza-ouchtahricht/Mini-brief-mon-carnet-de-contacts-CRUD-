@@ -32,3 +32,16 @@ h1{
     gap: 10px;
     flex-wrap: wrap;
 }
+input {
+    flex: 1;
+    min-width: 180px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    border: 1px solid #334155;
+    background-color: #0f172a;
+    color: #f8fafc;
+    outline: none;
+}
+input :focus {
+ border-color: #38bdf8;
+}
