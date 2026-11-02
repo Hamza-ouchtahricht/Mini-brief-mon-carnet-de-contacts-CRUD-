@@ -45,3 +45,15 @@ input {
 input :focus {
  border-color: #38bdf8;
 }
+#btn-submit{
+    background-color: #0284c7;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    
+}
+#btn-submit:hover{
+    background-color: #0369a1;
+}
