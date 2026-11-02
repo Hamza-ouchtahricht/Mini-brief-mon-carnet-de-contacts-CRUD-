@@ -19,6 +19,16 @@ body {
     max-width: 600px;
     padding: 25px;
     border-radius: 10px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.6rem;
+    color: #fd5b2e;
+}
 
-
+.form-group {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
 }
