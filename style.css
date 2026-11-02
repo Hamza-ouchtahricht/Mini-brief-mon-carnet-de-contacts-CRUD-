@@ -10,6 +10,15 @@ body {
     display: flex;
     justify-content: center;
     padding: 40px 15px;
-    
+
+}
+
+.container {
+    background-color: #dda4a4;
+    width: 100%;
+    max-width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+
 
 }
